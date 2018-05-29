@@ -1,0 +1,2 @@
+# strona
+GitHub Pages
